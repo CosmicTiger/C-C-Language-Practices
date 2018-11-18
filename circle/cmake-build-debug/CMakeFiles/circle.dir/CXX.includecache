@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lotus_zero/CLionProjects/circle/circleCheck.cpp
+
+/home/lotus_zero/CLionProjects/circle/main.cpp
+iostream
+-
+
